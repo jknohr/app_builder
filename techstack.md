@@ -3,25 +3,25 @@
 ## Tech Stack
 jknohr/app_builder is built on the following main stack:
 
-- [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Python](https://www.python.org) – Languages
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [Stylus](http://stylus-lang.com/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ESLint](http://eslint.org/) – Code Review
 - [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- [Nightwatchjs](http://nightwatchjs.org/) – Browser Testing
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [Vuetify](https://vuetifyjs.com/) – Front-End Frameworks
 - [vuex](https://vuex.vuejs.org) – State Management Library
+- [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Nightwatchjs](http://nightwatchjs.org/) – Browser Testing
+- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - [highlight.js](https://highlightjs.org/) – Text Editor
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -31,25 +31,25 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jknohr/app_builder is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1172/stylus.png' alt='Stylus'/> [Stylus](http://stylus-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/4125/Ihf7jKaE.png' alt='Nightwatchjs'/> [Nightwatchjs](http://nightwatchjs.org/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/6163/PzNbCwXH.jpg' alt='Vuetify'/> [Vuetify](https://vuetifyjs.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/6705/6128107.png' alt='vuex'/> [vuex](https://vuex.vuejs.org) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/116/cZLxNFZS.jpg' alt='Firebase'/> [Firebase](https://firebase.google.com/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4125/Ihf7jKaE.png' alt='Nightwatchjs'/> [Nightwatchjs](http://nightwatchjs.org/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jknohr/app_builder](https://github.com/jknohr/app_builder)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|38<br/>Tools used|01/05/24 <br/>Report generated|
+|38<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -282,7 +282,7 @@ Full tech stack [here](/techstack.md)
 |[raw-loader](https://www.npmjs.com/raw-loader)|v4.0.2|04/23/22|mmcardle |MIT|N/A|
 |[selenium-server](https://www.npmjs.com/selenium-server)|v3.141.59|10/24/22|mmcardle |BSD-3-Clause|N/A|
 |[stylus-loader](https://www.npmjs.com/stylus-loader)|v6.2.0|04/23/22|mmcardle |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v2.9.16|06/11/23|dependabot[bot] |N/A|N/A|
+|[vite](https://www.npmjs.com/vite)|v2.9.16|06/11/23|dependabot[bot] |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)|
 |[vue](https://www.npmjs.com/vue)|v2.7.13|06/21/14|mmcardle |MIT|N/A|
 |[vue-cli-plugin-vuetify](https://www.npmjs.com/vue-cli-plugin-vuetify)|v2.5.8|10/24/22|mmcardle |MIT|N/A|
 |[vue-router](https://www.npmjs.com/vue-router)|v3.6.5|10/24/22|mmcardle |MIT|N/A|
